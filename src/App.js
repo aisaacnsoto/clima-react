@@ -58,7 +58,7 @@ function App() {
           </div>
         </div>
       ) : (
-        <h1>{"City not found"}</h1>
+        <h1>{"Ciudad no encontrada."}</h1>
       )}
 
     </div>
